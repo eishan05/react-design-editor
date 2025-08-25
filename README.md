@@ -33,6 +33,12 @@ $ pnpm dev
 
 Open your browser and visit http://127.0.0.1:5173 , see more at [Development](https://github.com/designcombo/designcombo/react-design-editor).
 
+```bash
+pnpm test - Run tests in watch mode
+pnpm test:run - Run tests once
+pnpm test:ui - With a UI interface
+```
+
 ## 📝 License
 
 Copyright © 2024 [DesignCombo](https://github.com/designcombo/react-design-editor).
